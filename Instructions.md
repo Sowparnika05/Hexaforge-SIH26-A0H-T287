@@ -83,10 +83,10 @@ For **every team member**, provide:
 
 Provide the details of the faculty mentor assigned to your team.
 
-|     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
-|:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       | Nanthakumar Poorasu                                                                                 
-| Industry       |                     |                       |                         |                          |
+| Type     | Mentor Name          | Designation          | Department              | College Name             | Official Email ID          |
+|----------|----------------------|----------------------|-------------------------|--------------------------|----------------------------|
+| Academic | Nanthakumar Poorasu  | Assistant Professor  | Mechanical Engineering  | Amrita Vishwa Vidyapeetham | p_nanthakumar@cb.amrita.edu |
+| Industry |                      |                      |                         |                          |                            |
 
 Ensure that the mentor details are accurate and match the information provided by the SIH coordination team.
 
@@ -107,7 +107,7 @@ Example:
 ```text
 Problem Statement ID : SIH26025
 Problem Statement    : Development of an AI-enabled Low Cost Real Time Mine Subsidence Monitoring, 
-Prediction and Early Warning System for Underground Coal Mines in India
+                       Prediction and Early Warning System for Underground Coal Mines in India
 Theme                : Disaster Management
 Organization         : Ministry of Coal
 ```
