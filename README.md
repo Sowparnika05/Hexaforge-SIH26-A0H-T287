@@ -5,7 +5,7 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T287
 ### Team Details
 #### **Hexaforge**  <br/>
 #### Team Members
