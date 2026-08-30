@@ -70,12 +70,12 @@ For **every team member**, provide:
 
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |      K.S.Sowparnika          CB.EN.U4CIE26028          Female               B.tech Civil                 
+|    Member 2     |      Maadhav Shinu           CB.EN.U4MEE26121          Male                 B.tech Mech                          
+|    Member 3     |      Asvika V                CB.EN.U4CIE26027          Female               B.tech Civil                       
+|    Member 4     |      Maya P M                CB.EN.U4CIE26046          Female               B.tech Civil                         
+|    Member 5     |      K R Kiran Raj           CB.EN.U4EEE26216          Male                 B.tech EEE                            
+|    Member 6     |      Harish s                CB.EN.U4MEE26109          Male                 B.tech Mech                           
 
 > Update the table according to the actual number of members in your team.
 
@@ -85,7 +85,7 @@ Provide the details of the faculty mentor assigned to your team.
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       | Nanthakumar Poorasu                                                                                 
 | Industry       |                     |                       |                         |                          |
 
 Ensure that the mentor details are accurate and match the information provided by the SIH coordination team.
@@ -105,10 +105,11 @@ Provide:
 Example:
 
 ```text
-Problem Statement ID : SIH26YYY  
-Problem Statement    : <Problem Statement Title>
-Theme                : <Theme>
-Organization         : <Ministry / Organization>
+Problem Statement ID : SIH26025
+Problem Statement    : Development of an AI-enabled Low Cost Real Time Mine Subsidence Monitoring, 
+Prediction and Early Warning System for Underground Coal Mines in India
+Theme                : Disaster Management
+Organization         : Ministry of Coal
 ```
 
 The Problem Statement ID and title must exactly match the officially assigned/selected problem statement.
