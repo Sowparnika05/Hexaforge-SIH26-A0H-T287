@@ -20,11 +20,10 @@
 
 #### Mentor Details
 
-|     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
-|:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
-| Industry       |                     |                       |                         |                          |
-
+| Type     | Mentor Name          | Designation          | Department              | College Name             | Official Email ID          |
+|----------|----------------------|----------------------|-------------------------|--------------------------|----------------------------|
+| Academic | Nanthakumar Poorasu  | Assistant Professor  | Mechanical Engineering  | Amrita Vishwa Vidyapeetham | p_nanthakumar@cb.amrita.edu |
+| Industry |                      |                      |                         |                          |                            |
 -----
 
 ### Problem Statement(s)
