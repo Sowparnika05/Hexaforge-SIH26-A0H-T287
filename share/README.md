@@ -2,67 +2,41 @@
 #### Internal Hackathon @ Amrita Vishwa Vidyapeetham, Coimbatore Campus - Organized by Institution's Innovation Council (IIC)
 
 <p align="Center">
-  <img src="../assets/images/header.png" width=880 />
+  <img src="assets/images/header.png" width=921 />
 </p>
 
-## Instructions
- 
-# 1. Upload Files to the `share` Folder
+## SIH26-A0H-T287
+### Team Details
+#### **Hexaforge**  <br/>
+#### Team Members
+|       Role       |        👤 Name         | 🎓 Roll Number     | ♀️ Gender | 🏫 Department / Programme |
+|:-----------------|:-----------------------|:-------------------|:---------|:--------------------------|
+|   Team Leader    | K.S.Sowparnika         | CB.EN.U4CIE26028   | Female   | B.tech Civil              |
+|   Member 2       | Maadhav Shinu           | CB.EN.U4MEE26121   | Male     | B.tech Mech               |
+|   Member 3       | Asvika V                | CB.EN.U4CIE26027   | Female   | B.tech Civil              |
+|   Member 4       | Maya P M                | CB.EN.U4CIE26046   | Female   | B.tech Civil              |
+|   Member 5       | K R Kiran Raj           | CB.EN.U4EEE26216   | Male     | B.tech EEE                |
+|   Member 6       | Harish s                | CB.EN.U4MEE26109   | Male     | B.tech Mech               |
+#### Mentor Details
 
-All files that need to be submitted/shared with the SIH Internal Hackathon coordination team must be placed inside the following folder:
+| Type     | Mentor Name          | Designation          | Department              | College Name             | Official Email ID          |
+|----------|----------------------|----------------------|-------------------------|--------------------------|----------------------------|
+| Academic | Nanthakumar Poorasu  | Assistant Professor  | Mechanical Engineering  | Amrita Vishwa Vidyapeetham | p_nanthakumar@cb.amrita.edu |
+| Industry |                      |                      |                         |                          |                            |
+-----
 
-```text
-share/
-```
+### Problem Statement(s)
 
-The `share` folder must contain **only the required submission documents**.
+#### PS#1
+* **Problem Statement ID: SIH26025**
+* **Problem Statement Title: Development of an AI-enabled Low Cost Real Time Mine Subsidence Monitoring, 
+                       Prediction and Early Warning System for Underground Coal Mines in India**
+* **Theme / Category: Disaster Management**
+* **Ministry / Organization: Ministry of Coal**
+  
+#### PS#2
 
-## Required Files
-
-### 1.1 Team Presentation
-
-Upload the final presentation prepared by your team.
-
-Recommended filename:
-
-```text
-SIH26-A0H-TXXX-SIH26YYY_Presentation.pptx
-```
-
-or
-
-```text
-SIH26-A0H-TXXX-SIH26YYY_Presentation.pdf
-```
-
-The presentation should be the **final version presented during the Internal Hackathon**.
-
-
-### 1.2 Student Declaration
-
-Upload the completed **Student Declaration Format** provided by the SIH Internal Hackathon Organizing team. [Click Here](https://github.com/amrita-hackathon/SIH-2026-Internal-Hackathon-Template/tree/main/template) to download.
-
-Recommended filename:
-
-```text
-SIH26-A0H-TXXX_Student_Declaration.pdf
-```
-
-```text
-SIH26-A0H-TXXX_Student_Declaration.docx
-```
-
-Please upload the signed version in pdf format and the editable version in word form (.docx).
-
-### 1.3 Participants Guidelines
-
-Upload the Signed **SIH 2026 Participants Guidelines** provided by the SIH Internal Hackathon coordination team. Refer the Onboarding Email.
-
-Recommended filename:
-
-```text
-SIH26-A0H-TXXX_Team_Declaration_Internal.pdf
-```
-
-Please upload the signed version in pdf format.
-
+* **Problem Statement ID: SIH26161**
+* **Problem Statement Title: Dam Break Inundation Modelling Using Hydrodynamic Modelling of any River**
+* **Theme / Category: Disaster Management**
+* **Ministry / Organization: National Technical Research Organisation (NTRO)**
