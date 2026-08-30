@@ -28,11 +28,11 @@
 ### Problem Statement(s)
 
 #### PS#1
-* **Problem Statement ID:SIH26025**
-* **Problem Statement Title:Development of an AI-enabled Low Cost Real Time Mine Subsidence Monitoring, 
+* **Problem Statement ID: SIH26025**
+* **Problem Statement Title: Development of an AI-enabled Low Cost Real Time Mine Subsidence Monitoring, 
                        Prediction and Early Warning System for Underground Coal Mines in India**
-* **Theme / Category:Disaster Management**
-* **Ministry / Organization:Ministry of Coal**
+* **Theme / Category: Disaster Management**
+* **Ministry / Organization: Ministry of Coal**
   
 #### PS#2
 
