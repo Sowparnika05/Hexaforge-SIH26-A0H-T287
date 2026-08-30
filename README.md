@@ -36,7 +36,7 @@
   
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: SIH26161**
+* **Problem Statement Title: Dam Break Inundation Modelling Using Hydrodynamic Modelling of any River**
+* **Theme / Category: Disaster Management**
+* **Ministry / Organization: National Technical Research Organisation (NTRO)**
