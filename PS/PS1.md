@@ -17,4 +17,3 @@
 * Youtube video link (unlisted video)
 https://youtu.be/n-SpDS9GylM
 
-C:\Users\KAVITHA\Downloads\SIH26-A0H-T287-SIH26025_Presentation (4).pptx
