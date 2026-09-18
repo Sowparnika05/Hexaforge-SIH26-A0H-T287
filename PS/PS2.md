@@ -12,3 +12,4 @@
 * **Problem Statement Title: Passive Colorimetric H₂S Exposure-Dosimeter
  Wristband with AI-Based Quantitative Reading**
 * **Theme / Category: Smart Automation**
+* **Ministry / Organization: Mangalore Refinery and Petrochemicals Limited (MRPL)**
