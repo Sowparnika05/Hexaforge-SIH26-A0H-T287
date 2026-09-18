@@ -36,7 +36,7 @@
   
 #### PS#2
 
-* **Problem Statement ID: SIH26161**
-* **Problem Statement Title: Dam Break Inundation Modelling Using Hydrodynamic Modelling of any River**
-* **Theme / Category: Disaster Management**
-* **Ministry / Organization: National Technical Research Organisation (NTRO)**
+* * **Problem Statement ID: SIH26118**
+* **Problem Statement Title: Passive Colorimetric H₂S Exposure-Dosimeter
+ Wristband with AI-Based Quantitative Reading**
+* **Theme / Category: Smart Automation**
