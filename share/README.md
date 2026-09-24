@@ -13,7 +13,7 @@
 |-------------|------------------|-------------------|--------|------------------------|----------------|--------------------|
 | Team Leader | K.S. Sowparnika  | CB.EN.U4CIE26028   | Female | B.Tech Civil           | OBC            | None               |
 | Member 2    | Maadhav Shinu    | CB.EN.U4MEE26121   | Male   | B.Tech Mech            | OC             | None               |
-| Member 3    | Asvika V         | CB.EN.U4CIE26027   | Female | B.Tech Civil           | BC             | None               |
+| Member 3    | Asvika K J         | CB.EN.U4CIE26027   | Female | B.Tech Civil           | OBC             | None               |
 | Member 4    | Maya P M         | CB.EN.U4CIE26046   | Female | B.Tech Civil           | OBC            | None               |
 | Member 5    | K R Kiran Raj    | CB.EN.U4EEE26216   | Male   | B.Tech EEE             | OBC             | None               |
 | Member 6    | Harish S         | CB.EN.U4MEE26109   | Male   | B.Tech Mech            | OC             | None               |
